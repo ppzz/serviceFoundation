@@ -1,5 +1,5 @@
 {
-  "name": "serviceBase",
+  "name": "serviceFoundatioin",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -12,7 +12,8 @@
     "debug": "~2.2.0",
     "express": "~4.13.1",
     "jade": "~1.11.0",
-    "morgan": "~1.6.1"
+    "morgan": "~1.6.1",
+    "swagger-tools": "^0.10.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",
